@@ -7,6 +7,11 @@ I'm Lukas, a full-stack developer student at Dev Academy Aotearoa. 🚀
 - Backend development with Knex.js and database integrations.
 - Unity and Godot game engines.
 
+### 🛠️ Projects: 
+- [Character Development](https://github.com/lukas-tongco/character-development-SLAiN): A gamified journal that tracks your skills and experiences.
+- [To-do List](https://github.com/lukas-tongco/todo-full-stack): A full-stack app that allows you to record and delete tasks.
+- [Lukas Tongco](https://lukas-tongco.github.io): My personal learning blog throughout Dev Academy.
+
 ### 📫 How to reach me:
 - Email: lukas.tongco@gmail.com  
 - [LinkedIn](www.linkedin.com/in/lukas-tongco-2a3192283)  
