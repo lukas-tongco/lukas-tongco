@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lukas, a full-stack developer student at Dev Academy Aotearoa. 🚀 
+I'm Lukas, a full-stack developer graduate from Dev Academy Aotearoa. 🚀 
 
 ### 🌱 I’m currently learning:
 - Advanced React techniques and state management.  
