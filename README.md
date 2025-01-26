@@ -2,10 +2,12 @@
 
 I'm Lukas, a full-stack developer graduate from Dev Academy Aotearoa. 🚀 
 
+<!--
 ### 🌱 I’m currently learning:
 - Advanced React techniques and state management.  
 - Backend development with Knex.js and database integrations.
 - Unity and Godot game engines.
+-->
 
 ### 🛠️ Projects: 
 - [Character Development](https://github.com/lukas-tongco/character-development-SLAiN): A gamified journal that tracks your skills and experiences.
